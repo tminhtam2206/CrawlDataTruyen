@@ -1,0 +1,14 @@
+D:\.NET\CrawlDataTruyen\CrawlDataTruyen\bin\Debug\CrawlDataTruyen.exe.config
+D:\.NET\CrawlDataTruyen\CrawlDataTruyen\bin\Debug\CrawlDataTruyen.exe
+D:\.NET\CrawlDataTruyen\CrawlDataTruyen\bin\Debug\CrawlDataTruyen.pdb
+D:\.NET\CrawlDataTruyen\CrawlDataTruyen\obj\Debug\CrawlDataTruyen.csproj.AssemblyReference.cache
+D:\.NET\CrawlDataTruyen\CrawlDataTruyen\obj\Debug\CrawlDataTruyen.Form1.resources
+D:\.NET\CrawlDataTruyen\CrawlDataTruyen\obj\Debug\CrawlDataTruyen.Properties.Resources.resources
+D:\.NET\CrawlDataTruyen\CrawlDataTruyen\obj\Debug\CrawlDataTruyen.csproj.GenerateResource.cache
+D:\.NET\CrawlDataTruyen\CrawlDataTruyen\obj\Debug\CrawlDataTruyen.csproj.CoreCompileInputs.cache
+D:\.NET\CrawlDataTruyen\CrawlDataTruyen\obj\Debug\CrawlDataTruyen.exe
+D:\.NET\CrawlDataTruyen\CrawlDataTruyen\obj\Debug\CrawlDataTruyen.pdb
+D:\.NET\CrawlDataTruyen\CrawlDataTruyen\obj\Debug\CrawlDataTruyen.csproj.CopyComplete
+D:\.NET\CrawlDataTruyen\CrawlDataTruyen\bin\Debug\HtmlAgilityPack.dll
+D:\.NET\CrawlDataTruyen\CrawlDataTruyen\bin\Debug\HtmlAgilityPack.pdb
+D:\.NET\CrawlDataTruyen\CrawlDataTruyen\bin\Debug\HtmlAgilityPack.xml
